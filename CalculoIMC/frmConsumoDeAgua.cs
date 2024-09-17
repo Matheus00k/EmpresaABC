@@ -44,6 +44,7 @@ namespace CalculoIMC
             txtConsumo.Clear();
             txtIdade.Clear();
             txtPeso.Clear();
+            txtMetros.Clear();
             lblMostraConsumoDiario.Text = ("");
             lblMostraValor.Text = ("");
         }
