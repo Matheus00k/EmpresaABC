@@ -1,0 +1,16 @@
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.pdb
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.CalculoIMC.resources
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.MenuPrincipal.resources
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.frmCombustivel.resources
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.frmFolhadePagamento.resources
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.frmTaxaDeFrequencia.resources
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.frmConversãodeMoedas.resources
+C:\Users\matheus.calmeida7\Documents\Visual Studio 2019\EmpresaABC\CalculoIMC\obj\Debug\CalculoIMC.frmConsumoDeAgua.resources
